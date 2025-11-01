@@ -27,3 +27,6 @@ Realizar en JavaScript puro sin HTML lo siguiente:
    9 mostrar los numero pares que hay del dentro de un rango de numero dados y también cuantos pares e impares se encontraron
 9. capturar la edad y solo mostrar los que son mayor de edad y terminar hasta
    que encuentres una edad de 50 y hayas mostrado al menos 10 .
+
+10. capturar la edad y solo mostrar los que son mayor de edad y terminar hasta
+    que encuentres una edad de 50 y hayas mostrado al menos 10 .
