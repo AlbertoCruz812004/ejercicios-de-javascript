@@ -1,0 +1,74 @@
+EJERCICIOS JAVASCRIPT
+Resuelve y envia  al menos 5
+Usa lo siguiente:
+condicionales (if, else if, else), ciclos (for, while, do...while), y algunas funciones matemáticas (Math.random(), Math.round(), Math.pow(), Math.sqrt()
+
+1. Número aleatorio y adivinar
+Genera un número aleatorio del 1 al 10 y pide al usuario adivinarlo.
+Indica si su número es mayor o menor al número secreto, hasta que acierte.
+Usa while y Math.random().
+
+2. Suma de números pares
+Pide un número N y usa un for para sumar solo los números pares entre 1 y N.
+Imprime el total y cuántos pares hubo.
+
+3. Números impares y múltiplos de 3
+Usa un for del 1 al 50.
+Muestra los números impares y si alguno es múltiplo de 3, imprime un mensaje especial.
+
+4. Raíz cuadrada y redondeo
+Pide un número positivo y muestra su raíz cuadrada con 2 decimales.
+Si el número es negativo, muestra un mensaje de error usando if.
+
+5. Contador con condiciones
+Usa un for del 1 al 30:
+- Si el número es múltiplo de 5 → imprime “Múltiplo de 5”.
+- Si es par → imprime “Par”.
+- Si no cumple nada → imprime el número.
+
+6. Promedio de números ingresados
+Pide números al usuario con prompt dentro de un while.
+Cuando el usuario ingrese 0, termina el ciclo y muestra el promedio.
+
+7. Aumento salarial
+Pide el sueldo de un empleado.
+- Si es menor a 5000, aumenta 10%.
+- Si es de 5000 a 10000, aumenta 7%.
+- Si es mayor, aumenta 5%.
+Muestra el nuevo sueldo.
+
+8. Simulador de lanzamiento de dados
+Usa Math.random() y Math.round() para generar dos números del 1 al 6.
+Suma ambos y muestra el resultado.
+Repite el lanzamiento 5 veces con un for.
+
+9. Potencias de 2 hasta superar 1000
+Usa un while para calcular potencias de 2 (2^1, 2^2, 2^3 ...).
+Detente cuando la potencia sea mayor que 1000.
+
+10. Número aleatorio par o impar
+Genera un número aleatorio entre 1 y 100.
+Muestra el número y si es par o impar.
+Repite 10 veces usando un for.
+
+11. Contar dígitos de un número
+Pide un número positivo.
+Usa un while para dividirlo entre 10 hasta que sea menor que 1, contando los pasos.
+
+12. Simulador de calificaciones
+Genera 5 calificaciones aleatorias entre 50 y 100.
+Cuenta cuántas son aprobatorias (>=70) y cuántas reprobadas.
+Usa un for y if.
+
+13. Número elevado a sí mismo
+Pide un número n y calcula n^n usando Math.pow().
+Si el resultado supera 1000, muestra “número muy grande”.
+
+14. Ciclo hasta obtener múltiplo de 7
+Usa un do...while para generar números aleatorios entre 1 y 50.
+Detén el ciclo cuando salga un múltiplo de 7 y muestra cuántos intentos se necesitaron.
+
+15. Simulación de ahorro mensual
+Pide una cantidad inicial y usa un for para simular 12 meses.
+Cada mes aumenta 5% el monto acumulado.
+Muestra el saldo de cada mes y el total final.
